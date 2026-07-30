@@ -1,0 +1,10 @@
+/* nav styles start */
+.nav-container {
+    text-align: center;
+    width: 1320;
+    height: 600;
+    border: 141px 50px #000000;
+    /* color: #000000; */
+    border-radius: 16px;
+
+}
