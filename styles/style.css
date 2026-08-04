@@ -11,6 +11,17 @@
 /* share style */
 .red {
     color: #FF0000;
+
+}
+
+.btn {
+    background-color: #fd6e0a;
+    font-weight: bold;
+    font-size: 10px;
+    color: white;
+    border: none;
+    padding: 18px 35px;
+    border-radius: 5px;
 }
 
 /* main styles */
@@ -27,8 +38,23 @@
     text-align: center;
     margin: 0px 25%S;
     color: #000000;
+}
+
+.join-container {
+    text-align: center;
 
 
+}
 
+.join-section {
+    margin: 0px 20%;
+
+}
+
+.main {
+    width: 900px;
+    height: 200px;
+    padding: 20px;
+    background-color: antiquewhite;
 
 }
