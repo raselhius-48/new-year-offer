@@ -128,4 +128,24 @@
 .discount-sub-container3 {
     margin-bottom: 50%;
 
+
+}
+
+/* product-list style */
+.product-container {
+    box-sizing: border-box;
+    width: 1320px;
+    height: 1070px;
+    background-color: antiquewhite;
+    margin: auto;
+
+}
+
+.product-heading {
+    justify-content: left;
+}
+
+.product-sub-container,
+div {
+    margin: 10px 10px 10px 10px;
 }
