@@ -149,3 +149,14 @@
 div {
     margin: 10px 10px 10px 10px;
 }
+
+/* message style */
+.messages-container {
+    text-align: center;
+    width: 1320px;
+    height: 500px;
+    background-color: bisque;
+    margin: auto;
+}
+
+.subcribe {}
