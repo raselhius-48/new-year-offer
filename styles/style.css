@@ -27,10 +27,11 @@
 /* main styles */
 .container {
     text-align: center;
-
     width: 802.9px;
     height: 812px;
     margin: 0px 25%;
+
+
 }
 
 /* welcome style */
@@ -42,6 +43,7 @@
 
 .join-container {
     text-align: center;
+
 
 
 }
@@ -56,7 +58,7 @@
     height: 200px;
     padding: 20px;
     background-color: antiquewhite;
-
+    margin: auto;
 }
 
 /* picture styles  */
